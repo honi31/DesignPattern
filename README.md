@@ -4,6 +4,6 @@
 ### 식물 자동화 관리 시스템
 
 #### 사용된 design pattern
-    - Command Pattern
-    - Strategy Pattern
-    - 
+    Command Pattern
+    Strategy Pattern
+    Facade Pattern 
